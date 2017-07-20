@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  td:
+    image: td
+    build:
+      context: ./TD
+      dockerfile: Dockerfile
