@@ -9,8 +9,9 @@ namespace TD
 {
     public class Program
     {
-        // root entrypoint (tmp AAAAA)
+        // root entrypoint (tmp AAAAARRRRRGGGGGG)
         // Although git commit -m "commit message" works just fine, it can be useful
+
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
