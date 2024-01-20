@@ -9,7 +9,7 @@ namespace TD
 {
     public class Program
     {
-        // root entrypoint (tmp AAAAA)
+        // root entrypoint (tmp AAAAARRRRRGGGGGG)
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
