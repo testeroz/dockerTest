@@ -14,6 +14,8 @@ namespace TD
         // dddddddddddddddddddd
         // hhhhhhhhhh
         // master commit 1
+        // b2 change 1
+
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
