@@ -13,6 +13,7 @@ namespace TD
         // Although git commit -m "commit message" works just fine, it can be useful
         // dddddddddddddddddddd
         // hhhhhhhhhh
+        // master commit 1
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
